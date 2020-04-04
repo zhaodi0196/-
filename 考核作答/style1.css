@@ -19,40 +19,48 @@ a {
     width: 1520px;
     background-color:#3d3d3d;
 }
+
 .box1 .phone{
     float: left;
     margin-top: 15px;
     margin-left: 120px;
 }
+
 .box1 img{
     float: left;
     height: 20px;
     width: 20px;
     padding-right: 10px;
 }
+
 .box1 span{
     font-size: 15px;
     color: aliceblue;
 }
+
 .box1 .mail{
     float: left;
     margin-top: 15px;
     margin-left: 30px;
 }
+
 .box1 .mail .img1{
     height: 20px;
     width: 25px;
 }
+
 .box1 .introduce{
     float: left;
     margin-top: 15px;
     margin-left: 200px;
 }
+
 .box1 .register{
     float: left;
     margin-top: 15px;
     margin-left: 450px;
 }
+
 /* 顶头标志 */
 .box2{
     float: left;
@@ -61,47 +69,55 @@ a {
     margin-top: 50px;
     margin-left: 120px;
 }
+
 .box2 .div1{
     float: left;
     height: 80px;
     width: 350px;
 }
+
 .box2 .div1 .img1{
     float: left;
 }
+
 .box2 .div1 .class1{
     float: left;
+    margin-right: 180px;
     font-size: 30px;
     font-weight: 900;
     color: #000;
-    margin-right: 180px;
 }
+
 .box2 .div1 .class2{
     float: left;
+    margin-top: 10px;
     font-size: 15px;
     font-weight: 900;
     color: #000;
-    margin-top: 10px;
 }
+
 .box2 .div2{
     float: left;
     margin-left: 440px;
     margin-top: 30px;
 }
+
 .box2 .div2 .class1{
     float: left;
+    padding-right: 30px;
     font-size: 15px;
     font-weight: 900;
     color:rgb(101, 187, 184) ;
-    padding-right: 30px;
 }
+
 .box2 .div2 .class2{
     float: left;
+    padding-right: 30px;
     font-size: 15px;
     font-weight: 900;
     color:black ;
-    padding-right: 30px;
 }
+
 .box3 {
     float: left;
     width: 1520px;
@@ -110,6 +126,7 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .box3 .div1{
     float: left;
     height: 50px;
@@ -117,17 +134,20 @@ a {
     margin-top: 200px;
     margin-left: 450px;
 }
+
 .box3 .div1 .class1{
     float: left;
+    padding: 10px 15px 10px 15px;
     font-size: 15px;
     font-weight: 900;
     color: white;
     background-color: #1ba19d;
-    padding: 10px 15px 10px 15px;
 }
+
 .box3 .div1 .class2{
     float: left;
-}    
+}
+
 .box3 .div2{
         float: left;
         height: 50px;
@@ -135,19 +155,22 @@ a {
         margin-top: 10px;
         margin-left: 450px;
 }
+
 .box3 .div2 .class1{
         float: left;
+        padding: 10px 15px 10px 15px;
         font-size: 15px;
         font-weight: 900;
         color: white;
         background-color: #1ba19d;
-        padding: 10px 15px 10px 15px;
 }
+
 .box3 .div2 .class2{
         float: left;
         border: 1px solid silver;
-    border: 1px solid silver;
+        border: 1px solid silver;
 }
+
 .box3 .div3{
     float: left;
     height: 50px;
@@ -155,44 +178,51 @@ a {
     margin-top: 10px;
     margin-left: 450px;
 }
+
 .box3 .div3 .class1{
     float: left;
     font-size: 15px;
     color: white;
 }
+
 .box3 .div3 .class2{
     float: left;
-    font-size: 15px;
-    color: white;
     padding-left: 5px;
     padding-right: 5px;
-    border-right: 1px solid white;
-}
-.box3 .div3 .class3{
-    float: left;
     font-size: 15px;
     color: white;
-    padding-left: 5px;
+    border-right: 1px solid white;
 }
+
+.box3 .div3 .class3{
+    float: left;
+    padding-left: 5px;
+    font-size: 15px;
+    color: white;
+}
+
 .box4 {
     float: left;
     height: 80px;
     width: 1520px;
 }
+
 .box4 .class1{
     float: left;
-    font-size: 20px;
-    font-weight: 900;
-    color: #1ba19d;
     margin-left: 750px;
     margin-top: 30px;
+    color: #1ba19d;
+    font-size: 20px;
+    font-weight: 900;
 }
+
 /* 内容框 */
 .content{
     float: left;
     height: 400px;
     width: 1520px;
 }
+
 .content .box1{
     float: left;
     height: 250px;
@@ -201,32 +231,36 @@ a {
     background-color: silver;
     border: 1px solid silver;
 }
+
 .content .box1 .class1{
     float: left;
+    padding:10px 55px 10px 55px;
     font-size: 30px;
     font-weight: 900;
     color: black;
-    padding:10px 55px 10px 55px;
     background-color: white;
 }
+
 .content .box1 .class2{
     float: left;
-    font-size: 30px;
-    font-weight: 900;
-    color: white;
     margin-top: 5px;
     padding:10px 40px 10px 40px;
-    background-color: black;
-}
-.content .box1 .class3{
-    float: left;
     font-size: 30px;
     font-weight: 900;
     color: white;
-    margin-top: 5px;
-    padding:10px 55px 10px 55px;
     background-color: black;
 }
+
+.content .box1 .class3{
+    float: left;
+    margin-top: 5px;
+    padding:10px 55px 10px 55px;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    background-color: black;
+}
+
 .content .box2{
     float: left;
     margin: 0px;
@@ -234,6 +268,7 @@ a {
     width: 1050px;
     border: 1px solid silver;
 }
+
 .content .box2 .div1{
     float: left;
     height: 150px;
@@ -241,25 +276,29 @@ a {
     margin-top: 20px;
     margin-left: 40px;
 }
+
 .content .box2 .div1 .img1{
     float: left;
     height: 150px;
     width: 200px;
 }
+
 .content .box2 .div1 .class1{
     float: left;
     height: 120px;
     width: 240px;
-    font-size: 15px;
-    color: black;
     margin-left: 10px;
     margin-right: 0px;
+    font-size: 15px;
+    color: black;
 }
+
 .content .box2 .div1 .class2{
     float: right;
     font-size: 15px;
     color: #1ba19d;
 }
+
 .content .box2 .div2{
     float: left;
     height: 150px;
@@ -267,26 +306,30 @@ a {
     margin-top: 60px;
     margin-left: 40px;
 }
+
 .content .box2 .div2 .img1{
     float: left;
     height: 150px;
     width: 200px;
 }
+
 .content .box2 .div2 .class1{
     float: left;
     height: 120px;
     width: 240px;
-    font-size: 15px;
-    color: black;
     margin-left: 10px;
     margin-right: 0px;
     padding-right: 0px;
+    font-size: 15px;
+    color: black;
 }
+
 .content .box2 .div2 .class2{
     float: right;
     font-size: 15px;
     color: #1ba19d;
 }
+
 /* 底部框 */
 .box5{
     float: left;
@@ -297,110 +340,130 @@ a {
     margin-right: 120px;
     border-top: 3px solid black;
 }
+
 .box5 .part1{
     float: left;
     width: 640px;
     height: 200px;
     background-color: white;
 }
+
 .box5 .part1 .div1{
     float: left;
     height: 100px;
     width: 250px;
 }
+
 .box5 .part1 .div1 .img1{
     float: left;
     margin-top: 30px;
 }
+
 .box5 .part1 .div1 .class1{
     float: left;
-    font-size: 20px;
-    font-weight: 900;
     margin-top: 20px;
     margin-left: 10px;
+    font-size: 20px;
+    font-weight: 900;
 }
+
 .box5 .part1 .div1 .class2{
     float: left;
     margin-left: 10px;
 }
+
 .box5 .part1 .div2{
     float: left;
     height: 100px;
     width: 250px;
     margin-left: 70px;
 }
+
 .box5 .part1 .div2 .img1{
     float: left;
     margin-top: 30px;
 }
+
 .box5 .part1 .div2 .class1{
     float: left;
-    font-size: 20px;
-    font-weight: 900;
     margin-top: 20px;
     margin-left: 10px;
+    font-size: 20px;
+    font-weight: 900;
 }
+
 .box5 .part1 .div2 .class2{
     float: left;
     margin-left: 10px;
 }
+
 .box5 .part2{
     float: left;
     width: 640px;
     height: 200px;
     background-color: #3d3d3d;
 }
+
 .box5 .part2 .div1{
     float: left;
     height: 100px;
     width: 250px;
     padding-left: 50px;
 }
+
 .box5 .part2 .div1 .img1{
     float: left;
     margin-top: 30px;
 }
+
 .box5 .part2 .div1 .class1{
     float: left;
+    margin-top: 20px;
+    margin-left: 10px;
     font-size: 20px;
     font-weight: 900;
     color: white;
-    margin-top: 20px;
-    margin-left: 10px;
 }
+
 .box5 .part2 .div1 .class2{
     float: left;
     margin-left: 10px;
     color: white;
 }
+
 .box5 .part2 .div2{
     float: left;
     height: 100px;
     width: 250px;
     margin-left: 70px;
 }
+
 .box5 .part2 .div2 .img1{
     float: left;
     margin-top: 30px;
 }
+
 .box5 .part2 .div2 .class1{
     float: left;
+    margin-top: 20px;
+    margin-left: 10px; 
     font-size: 20px;
     font-weight: 900;
     color: white;
-    margin-top: 20px;
-    margin-left: 10px;
 }
+
 .box5 .part2 .div2 .class2{
     float: left;
     margin-left: 10px;
     color: white;
 }
+
 /* 侧边框 */
 .box{
     width: 1600;
     height: 900px;
-} 
+}
+
 .box .img{
     z-index: 3;
     float: left;
@@ -409,6 +472,7 @@ a {
     margin-left: 1440px;
     margin-top: 250px;
 }
+
 .box .img .class1{
     height: 80px;
     width: 80px;
